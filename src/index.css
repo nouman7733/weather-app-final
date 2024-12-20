@@ -1,0 +1,19 @@
+body {
+    background-color: #f0f8ff; /* Light background */
+    font-family: 'Roboto', sans-serif; /* Custom font */
+  }
+  
+  .container {
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  h1 {
+    color: #4C4DDB; /* Custom color */
+  }
+  
+  .location p {
+    font-size: 1.2rem;
+    color: #555; /* Darker text */
+  }
